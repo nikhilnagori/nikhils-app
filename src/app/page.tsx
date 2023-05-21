@@ -17,12 +17,6 @@ export default function Home() {
       </div>
 
       <div>
-      <Image
-      src="C:\Users\nikhi\coding-projects\nikhils-app\public\portal_picture_2.jpg"
-      alt="Picture of the author"
-      width="1"
-      height="1"
-      />
       </div>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:grid-cols-4 lg:text-left">
