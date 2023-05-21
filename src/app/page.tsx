@@ -18,7 +18,7 @@ export default function Home() {
 
       <div>
       <Image
-      src="portal_picture_2.jpg"
+      src="portal_pic.png"
       alt="Picture of the author"
       width="1"
       height="1"
