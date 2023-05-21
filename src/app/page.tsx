@@ -18,8 +18,8 @@ export default function Home() {
 
       <div>
     <Image
-      src="/portal_pic.png"
-      alt="/portal_pic.png"
+      src="C:\Users\nikhi\coding-projects\nikhils-app\src\app\portal_pic.png"
+      alt="Picture of Portal"
       width="500"
       height="500"
       />
