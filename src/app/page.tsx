@@ -18,10 +18,10 @@ export default function Home() {
 
       <div>
       <Image
-      src="portal_pic.png"
+      src="C:\Users\nikhi\coding-projects\nikhils-app\public\portal_picture_2.jpg"
       alt="Picture of the author"
-      width="500"
-      height="500"
+      width="1"
+      height="1"
       />
       </div>
 
