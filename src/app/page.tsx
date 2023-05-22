@@ -18,7 +18,7 @@ export default function Home() {
 
       <div>
     <Image
-      src="/portal_pic.png"
+      src="https://freepngimg.com/thumb/portal/27619-7-portal-image.png"
       alt="Picture of Portal"
       width="500"
       height="500"
