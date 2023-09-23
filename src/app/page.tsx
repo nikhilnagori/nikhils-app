@@ -11,7 +11,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By Nikhil & Rohan{' '}
+            By Nikhil & Rohan{' '}``
           </a>
         </div>
       </div>
